@@ -1,14 +1,14 @@
-# gatsby-starter-forty
-Gatsby starter based on the Forty site template, designed by [HTML5 UP](https://html5up.net/forty). Check out https://codebushi.com/gatsby-starters/ for more Gatsby starters and templates.
+# deriva-react-beta
+Aplicación web de Editorial Deriva (Versión Beta). Desarrollada por Piducan Tech, con Gatsby starter basado en Forty site template, diseñado por [HTML5 UP](https://html5up.net/forty). Entra a https://codebushi.com/gatsby-starters/ para revisar todos los Gatsby starters.
 
 ## Preview
 
-http://gatsby-forty.surge.sh/
+http://deriva-react-beta.netlify.com
 
-## Installation
+## Instalación
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-`gatsby new gatsby-starter-forty https://github.com/ChangoMan/gatsby-starter-forty`
+Instala y prueba la app-web (asumiendo que tienes Gatsby instalado) y corre desde tu CLI:
+`gatsby new deriva-react-beta https://github.com/eljuliopo/deriva-react-beta`
 
-Run `gatsby develop` in the terminal to start.
+Corre `gatsby develop` en la terminal para iniciar.
 # deriva-react-beta
