@@ -8,7 +8,7 @@
 
 	#banner {
 		@include vendor('align-items', 'center');
-		@include vendor('background-image', 'url("https://78.media.tumblr.com/0f60a06b92ba4e3fefeb1f8125f5444f/tumblr_osjo3kif3J1w4xnduo1_400.gif")');
+		@include vendor('background-image', 'url("http://demo.polr.me/3l")');
 		@include vendor('display', 'flex');
 		@include padding(4em, 0, (2em, 0, 0, 0));
 		background-attachment: fixed;
