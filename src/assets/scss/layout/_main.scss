@@ -12,6 +12,11 @@
 			color: _palette(bg);
 
 		}
+		h4 {
+			color: _palette(bg-inv);
+			font-size: 1.2em;
+		}
+
 		> * {
 			border-top: solid 1px _palette(border);
 

@@ -5,16 +5,19 @@ const Banner = (props) => (
     <section id="banner" className="major">
         <div className="inner">
               <h3><img src={logo} className="piola"/><br />—editorialderiva.org</h3>
-            <div className="major">
-                <br /><h5><i>Las ideas humanas son una construcción histórica y social<br />
-                imposible de apropiar, por ello ante la propiedad intelectual<br />
-                promovemos intelecto contra la propiedad</i></h5>
+            <div className="row">
+              <div className="4u 12u$(medium)"><br /></div>
+              <div className="4u 12u$(medium)"><br /></div>
+              <div className="4u 12u$(medium)">
+                
 
+                <h4><i>La literatura es una <br /> sociedad sin estado</i></h4>
+              </div>
             </div>
             <div className="major">
 
                <ul className="actions">
-               <p><i>Paul Gregory Bribon</i></p>
+               <h5>—Ricardo Piglia</h5>
                </ul>
 
               <br />

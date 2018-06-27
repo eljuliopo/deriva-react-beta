@@ -4,7 +4,7 @@ const Contact = (props) => (
     <section id="contact">
         <div className="inner">
             <section>
-                <h3 className="title">Contáctanos</h3>
+                <h3 className="title"><span className="icon fa-envelope"> Contáctanos</span></h3>
                 <form method="post" action="#">
                     <div className="field half first">
                         <label htmlFor="name">Nombre</label>

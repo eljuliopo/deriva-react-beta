@@ -8,7 +8,7 @@
 
 	#banner {
 		@include vendor('align-items', 'center');
-		@include vendor('background-image', 'url("https://bit.ly/2rRrIne")');
+		@include vendor('background-image', 'url(../images/sea3.gif)');
 		@include vendor('display', 'flex');
 		@include padding(4em, 0, (2em, 0, 0, 0));
 		background-attachment: fixed;
@@ -48,11 +48,12 @@
 		}
 
 		h4 {
-			text-align: center;
+			text-align: right;
 			text-transform:none;
 		}
 
 		h5 {
+			text-align: right;
 			font-size: 0.7em;
 			text-transform: uppercase;
 		}
@@ -193,5 +194,8 @@
 		}
 	}
 	.piola {
-		height: 4em;
+		height: 3em;
+		text-align: center;
+		align-items: center;
+		padding: 0;
 		}
